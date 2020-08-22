@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/uidemo/static/css/main.76742c0f.chunk.css",
-    "main.js": "/uidemo/static/js/main.cea99b54.chunk.js",
-    "main.js.map": "/uidemo/static/js/main.cea99b54.chunk.js.map",
+    "main.js": "/uidemo/static/js/main.a9804d9d.chunk.js",
+    "main.js.map": "/uidemo/static/js/main.a9804d9d.chunk.js.map",
     "runtime-main.js": "/uidemo/static/js/runtime-main.c18e5efd.js",
     "runtime-main.js.map": "/uidemo/static/js/runtime-main.c18e5efd.js.map",
     "static/js/2.b182ac44.chunk.js": "/uidemo/static/js/2.b182ac44.chunk.js",
     "static/js/2.b182ac44.chunk.js.map": "/uidemo/static/js/2.b182ac44.chunk.js.map",
     "index.html": "/uidemo/index.html",
-    "precache-manifest.f781b4ba6470b15385d2b2defb842bb9.js": "/uidemo/precache-manifest.f781b4ba6470b15385d2b2defb842bb9.js",
+    "precache-manifest.24e10fac831d38b05f58068142a65688.js": "/uidemo/precache-manifest.24e10fac831d38b05f58068142a65688.js",
     "service-worker.js": "/uidemo/service-worker.js",
     "static/css/main.76742c0f.chunk.css.map": "/uidemo/static/css/main.76742c0f.chunk.css.map",
     "static/js/2.b182ac44.chunk.js.LICENSE.txt": "/uidemo/static/js/2.b182ac44.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.c18e5efd.js",
     "static/js/2.b182ac44.chunk.js",
     "static/css/main.76742c0f.chunk.css",
-    "static/js/main.cea99b54.chunk.js"
+    "static/js/main.a9804d9d.chunk.js"
   ]
 }
