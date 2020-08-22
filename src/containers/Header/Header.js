@@ -31,7 +31,7 @@ export default function Header() {
       <div className='Bg'>
         <header className='site-header'>
           <div href='#0' className='logo'>
-            Logo
+            COMPANY
           </div>
           <div className='bg'>
             <div className='button-text'>
@@ -47,7 +47,7 @@ export default function Header() {
             </div>
             <div>{showCard(resource)}</div>
             <div className='bg-buy'>
-              <div className='buy-text'>Buy Now2</div>
+              <div className='buy-text'>Buy Now</div>
             </div>
             <br />
             <div>
