@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react'
+import React from 'react'
 import './Myths.css'
 function Myths() {
   const resource = [
