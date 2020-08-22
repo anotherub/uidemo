@@ -124,7 +124,7 @@
 
 .header-box-list_content {
   display: inline-block;
-  width: 153px;
+  width: auto;
   height: auto;
   font-family: 'Alata', sans-serif;
   font-size: 9px;
@@ -135,11 +135,11 @@
   letter-spacing: normal;
   text-align: left;
   color: #ffffff;
+  word-break: break-all;
 }
 
-.header-box-list-img {
-  display: inline-block;
-  max-width: 100%;
+.header-box-list-container {
+  position: relative;
 }
 
 .header-box {

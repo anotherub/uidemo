@@ -13,11 +13,11 @@ export default function Header() {
         {item.map((data, index) => {
           return (
             <div key={index}>
-              <div className='header-box-list-img'>
+              <div className='header-box-list-container'>
                 <img alt={data.image} style={{ width: '5px', marginRight: '5px' }} src={`./icons-${data.image}.png`} />
-              </div>
-              <div className='header-box-list_content' key={index}>
-                {data.heading}
+                <div className='header-box-list_content' key={index}>
+                  {data.heading}
+                </div>
               </div>
             </div>
           )
