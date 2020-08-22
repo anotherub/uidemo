@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.0f921109.chunk.css",
-    "main.js": "/static/js/main.bb4fc8ba.chunk.js",
-    "main.js.map": "/static/js/main.bb4fc8ba.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.146b4aeb.js",
-    "runtime-main.js.map": "/static/js/runtime-main.146b4aeb.js.map",
-    "static/js/2.b182ac44.chunk.js": "/static/js/2.b182ac44.chunk.js",
-    "static/js/2.b182ac44.chunk.js.map": "/static/js/2.b182ac44.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.acb87cc067345aeb39737ddd0112a015.js": "/precache-manifest.acb87cc067345aeb39737ddd0112a015.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.0f921109.chunk.css.map": "/static/css/main.0f921109.chunk.css.map",
-    "static/js/2.b182ac44.chunk.js.LICENSE.txt": "/static/js/2.b182ac44.chunk.js.LICENSE.txt",
-    "static/media/Header.css": "/static/media/board-notes.bd62729c.png",
-    "static/media/Learn.css": "/static/media/bg-learn.13f9220d.png"
+    "main.css": "/uidemo/static/css/main.1378b27d.chunk.css",
+    "main.js": "/uidemo/static/js/main.bb4fc8ba.chunk.js",
+    "main.js.map": "/uidemo/static/js/main.bb4fc8ba.chunk.js.map",
+    "runtime-main.js": "/uidemo/static/js/runtime-main.c18e5efd.js",
+    "runtime-main.js.map": "/uidemo/static/js/runtime-main.c18e5efd.js.map",
+    "static/js/2.b182ac44.chunk.js": "/uidemo/static/js/2.b182ac44.chunk.js",
+    "static/js/2.b182ac44.chunk.js.map": "/uidemo/static/js/2.b182ac44.chunk.js.map",
+    "index.html": "/uidemo/index.html",
+    "precache-manifest.2596e5da72494f94680af793da0d4741.js": "/uidemo/precache-manifest.2596e5da72494f94680af793da0d4741.js",
+    "service-worker.js": "/uidemo/service-worker.js",
+    "static/css/main.1378b27d.chunk.css.map": "/uidemo/static/css/main.1378b27d.chunk.css.map",
+    "static/js/2.b182ac44.chunk.js.LICENSE.txt": "/uidemo/static/js/2.b182ac44.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/uidemo/static/media/board-notes.bd62729c.png",
+    "static/media/Learn.css": "/uidemo/static/media/bg-learn.13f9220d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.146b4aeb.js",
+    "static/js/runtime-main.c18e5efd.js",
     "static/js/2.b182ac44.chunk.js",
-    "static/css/main.0f921109.chunk.css",
+    "static/css/main.1378b27d.chunk.css",
     "static/js/main.bb4fc8ba.chunk.js"
   ]
 }
