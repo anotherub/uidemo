@@ -1,0 +1,53 @@
+.overview-conatiner {
+  display: flex;
+  justify-content: center;
+  margin: 56px 0;
+}
+.overview {
+  height: 16px;
+  font-family: 'Alata', sans-serif;
+  font-size: 21px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.76;
+  letter-spacing: normal;
+  text-align: center;
+  color: #1c1d3d;
+}
+.overview-conatiner-cards {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.overview-box {
+  width: 185px;
+  border-radius: 2.5px;
+  box-shadow: 0 0 35px 0 rgba(59, 110, 230, 0.13);
+  background-color: #ffffff;
+  display: flex;
+  margin: 8px 8px;
+  padding: 24px 0 26.5px 0;
+}
+.overview-box_data {
+  width: 146px;
+  height: auto;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 9px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.44;
+  letter-spacing: normal;
+  text-align: center;
+  color: #54555d;
+  margin: auto 10px;
+  width: auto;
+}
+.overview-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 50px 0px;
+}

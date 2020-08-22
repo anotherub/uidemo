@@ -1,0 +1,153 @@
+.myth-container {
+  /* display: flex;
+  justify-content: center;
+  flex-direction: column; */
+}
+.myth-heading {
+  /* height: 41px; */
+  font-family: 'Alata', sans-serif;
+  font-size: 21px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #1c1d3d;
+}
+.myth-container-cards {
+  display: flex;
+  direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+}
+
+.myth-box {
+  width: 184.5px;
+  height: 135.5px;
+  border-radius: 2.5px;
+  box-shadow: 0 0 35px 0 rgba(59, 110, 230, 0.13);
+  background-color: #ffffff;
+  display: flex;
+  margin: 0 8px;
+}
+.myth-box_data {
+  width: 235px;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 0 35px 0 rgba(59, 110, 230, 0.13);
+  background-color: #ffffff;
+  padding: 5px 10px;
+  margin: 8px 8px;
+}
+
+#move-in-right {
+  animation: moveInRight 1s;
+  animation-timing-function: ease-out;
+}
+#move-in-left {
+  animation: moveInLeft 1s;
+  animation-timing-function: ease-out;
+}
+#move-in-bottom {
+  animation: moveInBottom 1s;
+  animation-timing-function: ease-out;
+}
+
+.myth-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 30px 0px;
+}
+
+.myth-box-list {
+  display: inline;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 8px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #54555d;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.list-cross {
+  display: inline-block;
+  background-image: url('../../assets/icons-8-x@3x.png');
+  width: 8px;
+  height: 8px;
+  background-size: cover;
+  background-position: top;
+  margin: 0 3px;
+}
+.list-tick {
+  display: inline-block;
+  background-image: url('../../assets/icons-8-checkmark-5-copy-4@3x.png');
+  width: 7px;
+  height: 7px;
+  background-size: cover;
+  background-position: top;
+  margin: 0 3px;
+}
+
+.myth-box-heading {
+  font-family: 'Alata', sans-serif;
+  font-size: 13px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.92;
+  letter-spacing: normal;
+  text-align: left;
+  color: #1c1d3d;
+  margin: 5px 0;
+}
+
+@keyframes moveInLeft {
+  0% {
+    opacity: 0;
+    transform: translateX(-100px);
+  }
+  80% {
+    transform: translateX(10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translate(0);
+  }
+}
+@keyframes moveInRight {
+  0% {
+    opacity: 0;
+    transform: translateX(100px);
+  }
+  80% {
+    transform: translateX(-10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translate(0);
+  }
+}
+@keyframes moveInBottom {
+  0% {
+    opacity: 0;
+    transform: translateY(5px);
+  }
+  80% {
+    /* transform: translatey(-1px); */
+  }
+  100% {
+    opacity: 1;
+    transform: translate(0);
+  }
+}
