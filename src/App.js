@@ -6,7 +6,7 @@ import fade from './util/fade.js'
 function App() {
   fade(false)
   return (
-    <div className='App'>
+    <div className='App-Container'>
       <Main />
     </div>
   )

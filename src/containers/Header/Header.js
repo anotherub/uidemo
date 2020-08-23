@@ -29,16 +29,16 @@ export default function Header() {
   return (
     <div className='header-wrapper'>
       <div className='Bg'>
-        <header className='site-header'>
-          <div href='#0' className='logo'>
-            COMPANY
+        <div className='site-header'>
+          <div className='bg'>
+            <div className='button-text'>Company's LOGO</div>
           </div>
           <div className='bg'>
             <div className='button-text'>
               Login <i className='icofont-arrow-right'></i>
             </div>
           </div>
-        </header>
+        </div>
         <div className='header-main'>
           <div className='header-main-content' style={{ margin: '0 10px' }}>
             <div className='header-main-content_heading'>Reading and Analysing Financial Statements</div>
