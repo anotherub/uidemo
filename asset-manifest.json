@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/uidemo/static/css/main.27763637.chunk.css",
+    "main.css": "/uidemo/static/css/main.cbb09d96.chunk.css",
     "main.js": "/uidemo/static/js/main.20e34225.chunk.js",
     "main.js.map": "/uidemo/static/js/main.20e34225.chunk.js.map",
     "runtime-main.js": "/uidemo/static/js/runtime-main.c18e5efd.js",
@@ -8,9 +8,9 @@
     "static/js/2.b182ac44.chunk.js": "/uidemo/static/js/2.b182ac44.chunk.js",
     "static/js/2.b182ac44.chunk.js.map": "/uidemo/static/js/2.b182ac44.chunk.js.map",
     "index.html": "/uidemo/index.html",
-    "precache-manifest.49223bbdc16e456c10669f98567d7514.js": "/uidemo/precache-manifest.49223bbdc16e456c10669f98567d7514.js",
+    "precache-manifest.b4f6adccd2b3afd6af758036da0035ea.js": "/uidemo/precache-manifest.b4f6adccd2b3afd6af758036da0035ea.js",
     "service-worker.js": "/uidemo/service-worker.js",
-    "static/css/main.27763637.chunk.css.map": "/uidemo/static/css/main.27763637.chunk.css.map",
+    "static/css/main.cbb09d96.chunk.css.map": "/uidemo/static/css/main.cbb09d96.chunk.css.map",
     "static/js/2.b182ac44.chunk.js.LICENSE.txt": "/uidemo/static/js/2.b182ac44.chunk.js.LICENSE.txt",
     "static/media/Header.css": "/uidemo/static/media/board-notes.bd62729c.png",
     "static/media/Learn.css": "/uidemo/static/media/bg-learn.13f9220d.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.c18e5efd.js",
     "static/js/2.b182ac44.chunk.js",
-    "static/css/main.27763637.chunk.css",
+    "static/css/main.cbb09d96.chunk.css",
     "static/js/main.20e34225.chunk.js"
   ]
 }
